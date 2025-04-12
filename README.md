@@ -47,6 +47,8 @@ It features a clean UI and is great for learning or starter projects in React wi
 
    ```bash
    git clone https://github.com/BekaluEshete/elegant-app.git
-   cd elegant-context-cart
+   cd shopping
+   npm install
+   npm run dev
 
 
